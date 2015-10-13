@@ -1,0 +1,5 @@
+C:\Users\carl.rippon\OneDrive\Documents\blog\datareader v datatable\DataTableVDataReader\DataTableVDataReader\bin\Debug\DataTableVDataReader.exe
+C:\Users\carl.rippon\OneDrive\Documents\blog\datareader v datatable\DataTableVDataReader\DataTableVDataReader\bin\Debug\DataTableVDataReader.pdb
+C:\Users\carl.rippon\OneDrive\Documents\blog\datareader v datatable\DataTableVDataReader\DataTableVDataReader\obj\Debug\DataTableVDataReader.csprojResolveAssemblyReference.cache
+C:\Users\carl.rippon\OneDrive\Documents\blog\datareader v datatable\DataTableVDataReader\DataTableVDataReader\obj\Debug\DataTableVDataReader.exe
+C:\Users\carl.rippon\OneDrive\Documents\blog\datareader v datatable\DataTableVDataReader\DataTableVDataReader\obj\Debug\DataTableVDataReader.pdb
